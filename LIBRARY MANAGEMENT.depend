@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1591283532 source:c:\users\sandeepkumar\desktop\codes-'c'\library management\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1591283581 source:c:\users\sandeepkumar\desktop\codes-'c'\library management\faculty_module.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1591283933 source:c:\users\sandeepkumar\desktop\codes-'c'\library management\student_module.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1591283933 source:c:\users\sandeepkumar\desktop\codes-'c'\library management\libraraian_module.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1591283933 source:c:\users\sandeepkumar\desktop\codes-'c'\library management\return_module.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1591283933 source:c:\users\sandeepkumar\desktop\codes-'c'\library management\common_module.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1591283933 source:c:\users\sandeepkumar\desktop\sem 2\c programming\project library\library management\common_module.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1591283581 source:c:\users\sandeepkumar\desktop\sem 2\c programming\project library\library management\faculty_module.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1591283933 source:c:\users\sandeepkumar\desktop\sem 2\c programming\project library\library management\libraraian_module.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1591283532 source:c:\users\sandeepkumar\desktop\sem 2\c programming\project library\library management\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1591283933 source:c:\users\sandeepkumar\desktop\sem 2\c programming\project library\library management\return_module.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1591283933 source:c:\users\sandeepkumar\desktop\sem 2\c programming\project library\library management\student_module.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
